@@ -66,3 +66,5 @@ python predict_crop_disease.py --model mobilenetv2 --image_path path/to/image.jp
 
 ## License
 This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code for any purpose.
+
+## Happy Learning
